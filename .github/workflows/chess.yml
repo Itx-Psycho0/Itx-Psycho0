@@ -1,0 +1,16 @@
+name: Chess Game
+
+on:
+  issue_comment:
+    types: [created]
+  workflow_dispatch:
+
+jobs:
+  move:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Run Chess Bot
+        uses: marcizhu/readme-chess@master
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
