@@ -1,18 +1,27 @@
 ## Hi there 👋
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hello%20World!&fontSize=70&animation=fadeIn&fontAlignY=35&desc=I%20am%20Anurag%20Singh&descAlignY=55&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,30&height=250&section=header&text=Hello%20World!&fontSize=70&font=Orbitron&animation=fadeIn&fontAlignY=35" />
 </div>
 
 <div align="center">
 
-### 👨‍💻 About Me
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=30&duration=3000&pause=1000&color=F71E3C&center=true&vCenter=true&width=500&lines=I+am+Anurag+Singh;(%20Psycho%20);Game+Developer+%7C+Web+Dev;3D+Artist+%7C+AI%2FML+Enthusiast" alt="Typing SVG" />
+</a>
+
+<br/>
+
 **"Bringing imagination to life one pixel at a time..!!"**
 
-I am a passionate developer and artist from **Uttar Pradesh, India**.
+I am a passionate developer from **Uttar Pradesh, India**.
 <br/>
-Currently Learning **Game Development**, **Web Development**, and diving into **AI/ML**.
-<br/>
-Also a **3D Artist** 🎨 exploring the world of Blender.
+
+---
+
+### 🏆 Achievements
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=Itx-Psycho0&theme=radical&no-frame=true&column=7&margin-w=15&margin-h=15" alt="Itx-Psycho0 Trophies" />
+</a>
 
 ---
 
