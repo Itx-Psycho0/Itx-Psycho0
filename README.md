@@ -53,9 +53,9 @@ Also a **3D Artist** 🎨 exploring the world of Blender.
 ---
 
 ### 🐍 The Cool Snake Animation
-<p align="center">
+<!-- <p align="center">
   <img src="https://raw.githubusercontent.com/Itx-Psycho0/Itx-Psycho0/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Itx-Psycho0/Itx-Psycho0/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation Dark" />
