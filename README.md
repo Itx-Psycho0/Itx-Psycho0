@@ -53,9 +53,6 @@ Also a **3D Artist** 🎨 exploring the world of Blender.
 ---
 
 ### 🐍 The Cool Snake Animation
-<!-- <p align="center">
-  <img src="https://raw.githubusercontent.com/Itx-Psycho0/Itx-Psycho0/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p> -->
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Itx-Psycho0/Itx-Psycho0/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation Dark" />
@@ -70,21 +67,6 @@ Also a **3D Artist** 🎨 exploring the world of Blender.
 
 ---
 
----
----
-
-### 🧩 Daily Dose of Fun
-<div align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Jokes" />
-</div>
-
----
-
-### 🚀 Sci-Fi Outro
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
-</div>
-
 ### 🤝 Connect with Me
 
 <a href="https://www.linkedin.com/in/anurag-singh-769567369/">
@@ -92,9 +74,14 @@ Also a **3D Artist** 🎨 exploring the world of Blender.
 </a>
 
 <br />
+<br />
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/Itx-Psycho0/count.svg" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=Itx-Psycho0&style=flat-square&color=blue" alt="Profile Views" />
 </div>
 
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,30&height=150&section=footer" />
 </div>
