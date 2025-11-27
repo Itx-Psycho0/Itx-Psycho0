@@ -73,13 +73,6 @@ Also a **3D Artist** 🎨 exploring the world of Blender.
 ---
 ### 🎮 Interactive Games & Fun
 
-<div align="center">
-  <h3>♟️ Play Chess Against Me!</h3>
-  <p>Click a valid move below to play as Black!</p>
-  <img src="https://github-readme-chess.vercel.app/api?username=Itx-Psycho0&theme=dark" alt="Chess Game" />
-</div>
-
-<br/>
 
 <div align="center">
   <h3>😂 Daily Dev Joke</h3>
