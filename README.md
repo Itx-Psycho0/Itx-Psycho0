@@ -1,4 +1,3 @@
-## Hi there 👋
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,30&height=250&section=header&text=Hello%20World!&fontSize=70&font=Orbitron&animation=fadeIn&fontAlignY=35" />
 </div>
@@ -6,22 +5,18 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=30&duration=3000&pause=1000&color=F71E3C&center=true&vCenter=true&width=500&lines=I+am+Anurag+Singh;(%20Psycho%20);Game+Developer+%7C+Web+Dev;3D+Artist+%7C+AI%2FML+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=900&size=38&duration=3000&pause=1000&color=F71E3C&center=true&vCenter=true&width=600&lines=I+am+Anurag+Singh;(%20Psycho%20)" alt="Typing SVG" />
 </a>
 
 <br/>
 
 **"Bringing imagination to life one pixel at a time..!!"**
 
-I am a passionate developer from **Uttar Pradesh, India**.
+I am a passionate developer and artist from **Uttar Pradesh, India**.
 <br/>
-
----
-
-### 🏆 Achievements
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=Itx-Psycho0&theme=radical&no-frame=true&column=7&margin-w=15&margin-h=15" alt="Itx-Psycho0 Trophies" />
-</a>
+Currently Learning **Game Development**, **Web Development**, and diving into **AI/ML**.
+<br/>
+Also a **3D Artist** 🎨 exploring the world of Blender.
 
 ---
 
@@ -42,12 +37,13 @@ I am a passionate developer from **Uttar Pradesh, India**.
 ---
 
 ### 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Itx-Psycho0&show_icons=true&theme=radical&rank_icon=github&include_all_commits=true" alt="Itx-Psycho0 Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Itx-Psycho0&show_icons=true&theme=radical&rank_icon=github&include_all_commits=true" alt="Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Itx-Psycho0&theme=radical" alt="Itx-Psycho0 Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Itx-Psycho0&theme=radical" alt="Streak" />
 </p>
 
 <p align="center">
@@ -57,13 +53,20 @@ I am a passionate developer from **Uttar Pradesh, India**.
 ---
 
 ### 🐍 The Cool Snake Animation
-<!-- <p align="center">
+<p align="center">
   <img src="https://raw.githubusercontent.com/Itx-Psycho0/Itx-Psycho0/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p> -->
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Itx-Psycho0/Itx-Psycho0/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation Dark" />
 </p>
+
+---
+
+### 🏆 Achievements
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=Itx-Psycho0&theme=radical&no-frame=true&column=7&margin-w=15&margin-h=15" alt="Trophies" />
+</a>
 
 ---
 
