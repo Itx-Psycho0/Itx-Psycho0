@@ -17,7 +17,7 @@
 ### 🛠️ Tech Stack & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,threejs,python,cpp,unreal,blender,git,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,threejs,python,cpp,unreal,blender,adobephotoshop,davinciresolve,git,github&theme=dark" />
 </div>
 
 ---
