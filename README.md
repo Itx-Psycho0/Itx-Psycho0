@@ -11,26 +11,21 @@
 
 <br/>
 
-**"Bringing imagination to life one pixel at a time..!!"**
+**"BRINGING IMAGINATION TO LIFE, ONE PIXEL AT A TIME..!!"**
 
-I am a passionate developer and artist from **Uttar Pradesh, India**.
-<br/>
-Currently Learning **Game Development**, **Web Development**, and diving into **AI/ML**.
-<br/>
-Also a **3D Artist** 🎨 exploring the world of Blender.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### TECH STACK AND TOOLS
+<br/>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,cpp,unreal,blender,git,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,three.js,python,cpp,unreal,blender,git,github&theme=dark" />
 </div>
 
 
 ---
 
-### 📊 GitHub Stats
-
+### GITHUB STATS
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Itx-Psycho0&show_icons=true&theme=radical&rank_icon=github&include_all_commits=true" alt="Stats" />
 </p>
@@ -45,7 +40,7 @@ Also a **3D Artist** 🎨 exploring the world of Blender.
 
 ---
 
-### 🐍 The Cool Snake Animation
+### THE COOL SNAKE ANIMATION
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Itx-Psycho0/Itx-Psycho0/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation Dark" />
@@ -53,14 +48,14 @@ Also a **3D Artist** 🎨 exploring the world of Blender.
 
 ---
 
-### 🏆 Achievements
+### ACHIEVMENTS
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img src="https://github-profile-trophy.vercel.app/?username=Itx-Psycho0&theme=radical&no-frame=true&column=7&margin-w=15&margin-h=15" alt="Trophies" />
 </a>
 
 ---
 
-### 🤝 Connect with Me
+### CONNECT WITH ME
 
 <a href="https://www.linkedin.com/in/anurag-singh-769567369/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
