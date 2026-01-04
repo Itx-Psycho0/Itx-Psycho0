@@ -1,0 +1,11 @@
+{
+  "name": "repo-list-generator",
+  "version": "1.0.0",
+  "description": "Generate repo list sorted by commits and update README",
+  "main": "scripts/generate_repos.js",
+  "scripts": {
+    "generate": "node scripts/generate_repos.js"
+  },
+  "author": "You",
+  "license": "MIT"
+}
