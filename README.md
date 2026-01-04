@@ -17,8 +17,7 @@
 ### 🛠️ Tech Stack & Tools
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,threejs,python,cpp,unreal,blender,adobephotoshop,davinciresolve,git,github&theme=dark" />
-    <img src="https://img.shields.io/badge/DaVinci%20Resolve-233A51?style=for-the-badge&logo=blackmagicdesign&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,threejs,python,cpp,unreal,blender,ps,git,github&theme=dark" />
 
 </div>
 
