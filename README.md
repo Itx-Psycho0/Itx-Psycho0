@@ -26,17 +26,12 @@
 ---
 
 ### `GITHUB STATS`
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Itx-Psycho0&show_icons=true&theme=radical&rank_icon=github&include_all_commits=true" alt="Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Itx-Psycho0&theme=radical" alt="Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itx-Psycho0&layout=compact&theme=radical" alt="Top Langs" />
-</p>
+<a href="https://github-readme-stats.vercel.app">
+        <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=aeristhy&theme=onedark&custom_title=GitHub+Stats&hide_border=true"/>
+    </a>
+    <a href="https://github-readme-streak-stats.herokuapp.com">
+        <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=aeristhy&theme=onedark&hide_border=true"/>
+    </a>
 
 ---
 
