@@ -16,16 +16,16 @@
 
 ---
 
-### ~TECH STACK AND TOOLS~
+### `TECH STACK AND TOOLS`
 <br/>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,3js,python,cpp,unreal,blender,git,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,threejs,python,cpp,unreal,blender,git,github&theme=dark" />
 </div>
 
 
 ---
 
-### ~GITHUB STATS~
+### `GITHUB STATS`
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Itx-Psycho0&show_icons=true&theme=radical&rank_icon=github&include_all_commits=true" alt="Stats" />
 </p>
@@ -40,7 +40,7 @@
 
 ---
 
-### ~THE COOL SNAKE ANIMATION~
+### `THE COOL SNAKE ANIMATION`
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Itx-Psycho0/Itx-Psycho0/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation Dark" />
@@ -48,14 +48,14 @@
 
 ---
 
-### ~ACHIEVMENTS~
+### `ACHIEVMENTS`
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img src="https://github-profile-trophy.vercel.app/?username=Itx-Psycho0&theme=radical&no-frame=true&column=7&margin-w=15&margin-h=15" alt="Trophies" />
 </a>
 
 ---
 
-### ~CONNECT WITH ME~
+### `CONNECT WITH ME`
 
 <a href="https://www.linkedin.com/in/anurag-singh-769567369/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
