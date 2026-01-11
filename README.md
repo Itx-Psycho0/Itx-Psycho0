@@ -62,12 +62,6 @@
   </table>
 </div>
 
----
-
----
-
----
-
 ### > The Arsenal
 
 <div align="center">
