@@ -31,7 +31,7 @@
   </tr>
 </table>
 
----
+![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 <div align="center">
   <table width="100%" style="border: none;">
@@ -70,7 +70,7 @@
   </kbd>
 </div>
 
----
+![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 ### > Github Stats
 
@@ -87,7 +87,7 @@
   </kbd>
 </div>
 
----
+![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 ### > The Cool Animations
 
@@ -104,14 +104,14 @@
   </kbd>
 </div>
 
----
+![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 ### > Achievements
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img src="https://github-profile-trophy.vercel.app/?username=Itx-Psycho0&theme=radical&no-frame=true&column=7&margin-w=15&margin-h=15" alt="Trophies" />
 </a>
 
----
+![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 ###  Connect with Me
 
