@@ -115,21 +115,18 @@
 
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
-###  Connect with Me
-
-<a href="https://www.linkedin.com/in/anurag-singh-769567369/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<br />
-<br />
+### > Connect with Me
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Itx-Psycho0&style=flat-square&color=blue" alt="Profile Views" />
-</div>
-
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,30&height=150&section=footer" />
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50" style="margin-bottom: -10px;" />
+  
+  <a href="https://www.linkedin.com/in/anurag-singh-769567369/">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
+  </a>
+  <a href="mailto:your_email@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" />
+  </a>
+  <a href="https://instagram.com/your-handle">
+    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="30" />
+  </a>
 </div>
