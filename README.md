@@ -108,7 +108,9 @@
 
 ### > Achievements
 <div align="center">
-  [![trophy](https://github-trophies.vercel.app/?username=Itx-Psycho0&theme=dark_lover)](https://github.com/Itx-Psycho0/github-trophies)
+  <a href="https://github.com/Schweinepriester/github-profile-achievements">
+    <img src="https://github-profile-achievements.vercel.app/?username=Itx-Psycho0&theme=radical&layout=compact" alt="Achievements" />
+  </a>
 </div>
 
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
