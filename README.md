@@ -94,9 +94,9 @@
 
 <div align="center">
   <kbd>
-    <img src="https://github-readme-pacman.vercel.app/?username=Itx-Psycho0&style=flat-square&theme=radical" alt="Pacman Loading" />
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3p5eW55eW55eW55eW55eW55eW55eW55eW55eW55eW55eW55/l378c04lFj5755555/giphy.gif" width="100%" height="80" alt="Pacman Loading" />
   </kbd>
-</div>
+</div>>
 
 <br><br>
 
