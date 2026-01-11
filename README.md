@@ -1,11 +1,7 @@
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="uchihai.gif" width="100%" alt="Psycho Obito Banner" />
-      </td>
-    </tr>
-  </table>
+  <kbd>
+    <img src="uchihai.gif" width="100%" alt="Psycho Obito Banner" />
+  </kbd>
 </div>
 ---
 <div align="center">
