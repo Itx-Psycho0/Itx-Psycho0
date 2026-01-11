@@ -162,6 +162,6 @@
 
 <div align="center">
   <kbd>
-    <img src="uchihai.gif" width="100%" alt="Psycho Obito Banner" />
+    <img src="haikyuu.gif" width="100%" alt="Psycho Obito Banner" />
   </kbd>
 </div>
