@@ -75,25 +75,27 @@
 ### > Github Stats
 
 <div align="center">
-  <a href="https://github.com/Itx-Psycho0">
-    <img src="https://github-readme-stats.vercel.app/api?username=Itx-Psycho0&show_icons=true&count_private=true&bg_color=000000&title_color=FF0000&text_color=FFFFFF&icon_color=FF0000&border_color=FF0000&hide_border=false" height="180" alt="stats" />
+<a href="https://github.com/Itx-Psycho0">
+    <img src="https://github-readme-stats.vercel.app/api?username=Itx-Psycho0&show_icons=true&count_private=true&theme=radical&hide_border=true" height="180" alt="stats" />
   </a>
   
   <a href="https://github.com/Itx-Psycho0">
-    <img src="https://streak-stats.demolab.com/?user=Itx-Psycho0&theme=dark&background=000000&ring=FF0000&fire=FF0000&currStreakNum=FFFFFF&currStreakLabel=FF0000&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&border=FF0000&hide_border=false" height="180" alt="streak" />
+    <img src="https://streak-stats.demolab.com/?user=Itx-Psycho0&theme=radical&hide_border=true" height="180" alt="streak" />
   </a>
   
   <br><br>
 
   <a href="https://github.com/Itx-Psycho0">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itx-Psycho0&layout=compact&bg_color=000000&title_color=FF0000&text_color=FFFFFF&border_color=FF0000&hide_border=false" height="100" alt="languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itx-Psycho0&layout=compact&theme=radical&hide_border=true" height="100" alt="languages" />
   </a>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Itx-Psycho0&bg_color=000000&color=ff0000&line=ff0000&point=ffffff&area=true&hide_border=true" width="100%" alt="3D Graph" />
+  <kbd>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Itx-Psycho0&bg_color=141321&color=ff0055&line=ff0055&point=ffffff&area=true&hide_border=true" width="100%" alt="3D Graph" />
+  </kbd>
 </div>
 
 ---
