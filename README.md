@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="uchihai.gif" width="100%" alt="Psycho Obito Banner" />
+  <img src="uchihai.gif" width="100%" style="border: 2px solid #908f8f; border-radius: 10px; box-shadow: 0 0 40px #1b1b1b;" alt="Psycho Obito Banner" />
 </div>
 
 ---
