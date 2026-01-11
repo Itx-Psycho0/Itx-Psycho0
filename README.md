@@ -68,7 +68,7 @@
 
 <div align="center">
   <kbd>
-    <img src="https://skillicons.dev/icons?i=cpp,unreal,blender,linux,davinci&theme=dark&perline=14" height="50" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=cpp,unreal,blender,linux&theme=dark&perline=14" height="50" alt="Tech Stack" />
   </kbd>
   <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
