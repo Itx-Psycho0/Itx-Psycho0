@@ -94,7 +94,7 @@
 
 <div align="center">
   <kbd>
-    <img src="https://github-readme-pacman.vercel.app/?username=Itx-Psycho0&style=flat-square&theme=radical" alt="Pacman Eating Commits" />
+    <img src="https://raw.githubusercontent.com/Itx-Psycho0/Itx-Psycho0/output/pacman-contribution.svg" width="100%" alt="Pacman Eating Commits" />
   </kbd>
 </div>
 
