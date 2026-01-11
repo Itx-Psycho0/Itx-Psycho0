@@ -120,11 +120,11 @@
 
 <div align="center">
   <a href="https://github.com/Itx-Psycho0/MY-Skills">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Itx-Psycho0&repo=YOUR-GAME-REPO-NAME&theme=radical&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Itx-Psycho0&repo=MY-Skills&theme=radical&hide_border=true" />
   </a>
 
   <a href="https://github.com/Itx-Psycho0/50-Project-in-50-Days-by-HTML-CSS-JS">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Itx-Psycho0&repo=YOUR-WEB-REPO-NAME&theme=radical&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Itx-Psycho0&repo=50-Project-in-50-Days-by-HTML-CSS-JS&theme=radical&hide_border=true" />
   </a>
 </div>
 
