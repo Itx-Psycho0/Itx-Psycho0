@@ -90,11 +90,13 @@
 
 ---
 
-###  The Cool Snake Animation
+### > The Cool Pacman Animation
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Itx-Psycho0/Itx-Psycho0/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation Dark" />
-</p>
+<div align="center">
+  <kbd>
+    <img src="https://media.giphy.com/media/d9QiBcfzg64Io/giphy.gif" width="100%" alt="Pacman" />
+  </kbd>
+</div>
 
 ---
 
