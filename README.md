@@ -94,6 +94,12 @@
 
 <div align="center">
   <kbd>
+    <img src="https://media.giphy.com/media/d9QiBcfzg64Io/giphy.gif" width="100%" alt="Pacman Gameplay" />
+  </kbd>
+</div>
+
+<div align="center">
+  <kbd>
     <img src="https://raw.githubusercontent.com/Itx-Psycho0/Itx-Psycho0/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Pacman Style Grid" />
   </kbd>
 </div>
