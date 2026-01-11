@@ -90,13 +90,22 @@
 
 ---
 
-### > The Cool Pacman Animation
+### > The Cool Animations
+
+<div align="center">
+  <kbd>
+    <img src="https://github-readme-pacman.vercel.app/?username=Itx-Psycho0&style=flat-square&theme=radical" alt="Pacman Loading" />
+  </kbd>
+</div>
+
+<br><br>
 
 <div align="center">
   <kbd>
     <img src="https://media.giphy.com/media/d9QiBcfzg64Io/giphy.gif" width="100%" alt="Pacman Gameplay" />
   </kbd>
 </div>
+<br><br>
 
 <div align="center">
   <kbd>
