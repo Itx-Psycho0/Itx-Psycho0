@@ -4,7 +4,7 @@
   </kbd>
 </div>
 
----
+![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=900&size=36&duration=2500&pause=1000&color=FFFFFF;FF0000&center=true&vCenter=true&width=760&lines=I+AM+ANURAG+SINGH;ITX-PSYCHO0" alt="typing" />
 </div>
@@ -79,6 +79,7 @@
     <img src="https://nirzak-streak-stats.vercel.app/?user=Itx-Psycho0&theme=neon&hide_border=false" alt="Streak" />
   </a>
   
+<br>
 <br>
 
   <kbd>
