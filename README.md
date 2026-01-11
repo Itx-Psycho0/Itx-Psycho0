@@ -94,9 +94,9 @@
 
 <div align="center">
   <kbd>
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3p5eW55eW55eW55eW55eW55eW55eW55eW55eW55eW55eW55/l378c04lFj5755555/giphy.gif" width="100%" height="80" alt="Pacman Loading" />
+    <img src="https://i.imgur.com/Tq5f8C6.gif" width="100%" alt="Pacman Chase" />
   </kbd>
-</div>>
+</div>
 
 <br><br>
 
