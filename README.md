@@ -32,6 +32,36 @@
 </table>
 
 ---
+---
+
+<div align="center">
+  <table width="100%" style="border: none;">
+    <tr>
+      <td width="33%" align="center" valign="top">
+        <h3>👤 Who Am I?</h3>
+        <p><b>Anurag Singh</b>.<br>A creator merging logic with chaos. I don't just write code; I build <b>worlds</b> in Game Dev and craft <b>immersive</b> 3D Web experiences.</p>
+      </td>
+      <td width="33%" align="center" valign="top">
+        <h3>🧠 Currently Hunting</h3>
+        <p>I am acquiring power in:</p>
+        <p>
+          <code>C++ & Unreal Engine</code><br>
+          <code>Three.js (3D Web)</code><br>
+          <code>Python & AI</code>
+        </p>
+      </td>
+      <td width="33%" align="center" valign="top">
+        <h3>🎁 The Loot (What You Get)</h3>
+        <p>By following my path, you get:</p>
+        <ul>
+          <li>Dark, aesthetic UI/UX ideas</li>
+          <li>Game Dev logic breakdowns</li>
+          <li>Code that <i>bleeds</i> emotion</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ### Tech Stack
 
