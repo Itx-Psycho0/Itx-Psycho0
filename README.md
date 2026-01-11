@@ -119,7 +119,7 @@
 ### > Top Contributed Repos
 
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Itx-Psycho0&limit=5&theme=neon&combine_all_yearly_contributions=true" width="100%" alt="Top Repos" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=Itx-Psycho0&limit=5&theme=radical&combine_all_yearly_contributions=false" width="100%" alt="Top Repos" />
 </div>
 
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
