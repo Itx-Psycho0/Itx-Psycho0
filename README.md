@@ -119,14 +119,31 @@
 ### > Top Contributed Repos
 
 <div align="center">
-  <a href="https://github.com/Itx-Psycho0/MY-Skills">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Itx-Psycho0&repo=MY-Skills&theme=radical&hide_border=true" />
-  </a>
-
-  <a href="https://github.com/Itx-Psycho0/50-Project-in-50-Days-by-HTML-CSS-JS">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Itx-Psycho0&repo=50-Project-in-50-Days-by-HTML-CSS-JS&theme=radical&hide_border=true" />
-  </a>
-</div>
+  <table style="border: none;">
+    <tr>
+      <td align="center" width="50%">
+        <a href="https://github.com/Itx-Psycho0/MY-Skills">
+          <img src="https://img.shields.io/badge/REPO-MY_SKILLS-ff0000?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+        <br><br>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+        <br>
+        <p><i>The central database of my abilities.</i></p>
+      </td>
+      <td align="center" width="50%">
+        <a href="https://github.com/Itx-Psycho0/50-Project-in-50-Days-by-HTML-CSS-JS">
+          <img src="https://img.shields.io/badge/REPO-50_PROJECTS-ff0000?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+        <br><br>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/Frontend-000000?style=flat-square&logo=react&logoColor=cyan" />
+        <br>
+        <p><i>50 Days. 50 Web Experiments.</i></p>
+      </td>
+    </tr>
+  </table>
+</div>>
 
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
