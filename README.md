@@ -119,7 +119,13 @@
 ### > Top Contributed Repos
 
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Itx-Psycho0&limit=5&theme=radical&combine_all_yearly_contributions=false" width="100%" alt="Top Repos" />
+  <a href="https://github.com/Itx-Psycho0/MY-Skills">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Itx-Psycho0&repo=YOUR-GAME-REPO-NAME&theme=radical&hide_border=true" />
+  </a>
+
+  <a href="https://github.com/Itx-Psycho0/50-Project-in-50-Days-by-HTML-CSS-JS">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Itx-Psycho0&repo=YOUR-WEB-REPO-NAME&theme=radical&hide_border=true" />
+  </a>
 </div>
 
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
