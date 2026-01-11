@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="obito(3).gif" width="100%" alt="Psycho Obito Banner" />
+  <img src="obito.gif" width="100%" alt="Psycho Obito Banner" />
 </div>
 ---
 <div align="center">
