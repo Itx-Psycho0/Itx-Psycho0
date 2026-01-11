@@ -76,16 +76,17 @@
 
 <div align="center">
   <a href="https://github.com/Itx-Psycho0">
-    <img src="https://github-readme-stats.vercel.app/api?username=Itx-Psycho0&show_icons=true&count_private=true&theme=default&bg_color=000000&title_color=ff0000&text_color=ffffff&icon_color=ff0000&border_color=ff0000&hide_border=false" height="180" alt="stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Itx-Psycho0&show_icons=true&count_private=true&bg_color=000000&title_color=FF0000&text_color=FFFFFF&icon_color=FF0000&border_color=FF0000&hide_border=false" height="180" alt="stats" />
   </a>
+  
   <a href="https://github.com/Itx-Psycho0">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Itx-Psycho0&theme=default&background=000000&ring=ff0000&fire=ff0000&currStreakNum=ffffff&currStreakLabel=ff0000&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&border=ff0000" height="180" alt="streak" />
+    <img src="https://streak-stats.demolab.com/?user=Itx-Psycho0&theme=dark&background=000000&ring=FF0000&fire=FF0000&currStreakNum=FFFFFF&currStreakLabel=FF0000&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&border=FF0000&hide_border=false" height="180" alt="streak" />
   </a>
   
   <br><br>
 
   <a href="https://github.com/Itx-Psycho0">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itx-Psycho0&layout=compact&theme=default&bg_color=000000&title_color=ff0000&text_color=ffffff&border_color=ff0000&hide_border=false" height="100" alt="languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itx-Psycho0&layout=compact&bg_color=000000&title_color=FF0000&text_color=FFFFFF&border_color=FF0000&hide_border=false" height="100" alt="languages" />
   </a>
 </div>
 
