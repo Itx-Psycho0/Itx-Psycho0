@@ -75,13 +75,13 @@
 ### > Github Stats
 
 <div align="center">
-  <br><br>
+  <br>
 
   <a href="https://github.com/Itx-Psycho0">
     <img src="https://nirzak-streak-stats.vercel.app/?user=Itx-Psycho0&theme=neon&hide_border=false" alt="Streak" />
   </a>
   
-<br>
+<br><br>
 
   <kbd>
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Itx-Psycho0&bg_color=141321&color=ff0055&line=ff0055&point=ffffff&area=true&hide_border=true" width="100%" alt="3D Graph" />
