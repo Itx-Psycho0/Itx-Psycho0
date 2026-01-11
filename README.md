@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,30&height=250&section=header&text=Hello%20World!&fontSize=70&font=Orbitron&animation=fadeIn&fontAlignY=35" />
+  <img src="obito.mov" width="100%" alt="Psycho Obito Banner" />
 </div>
 
 <div align="center">
