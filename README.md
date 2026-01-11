@@ -119,6 +119,7 @@
 
 <div align="center">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50" style="margin-bottom: -10px;" />
+  <img src="https://media.giphy.com/media/5bS5a4f78khtfXODxH/giphy.gif" width="200" />
   
   <a href="https://www.linkedin.com/in/anurag-singh-769567369/">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
@@ -129,6 +130,6 @@
   <a href="https://instagram.com/snsi_psycho">
     <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="30" />
   </a>
-<img src="https://64.media.tumblr.com/b6531952a265697686b2451f2162602e/tumblr_p7n908E1Jb1uy4lhuo1_540.gif" width="400" />
+
 </div>
 
