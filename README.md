@@ -6,9 +6,7 @@
 
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,unreal,blender,linux&theme=dark" height="50" alt="Tech Stack" />
-  
-  <img src="https://img.shields.io/badge/DaVinci_Resolve-333333?style=flat-square&logo=davinciresolve&logoColor=white" height="46" style="vertical-align: top; margin-left: 5px;" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=900&size=36&duration=2500&pause=1000&color=FFFFFF;FF0000&center=true&vCenter=true&width=760&lines=I+AM+ANURAG+SINGH;ITX-PSYCHO0" alt="typing" />
 </div>
 
 <br>
