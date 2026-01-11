@@ -75,19 +75,19 @@
 ### > Github Stats
 
 <div align="center">
-<a href="https://github.com/Itx-Psycho0">
-    <img src="https://github-readme-stats.vercel.app/api?username=Itx-Psycho0&show_icons=true&count_private=true&theme=radical&hide_border=true" height="180" alt="stats" />
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Itx-Psycho0&theme=radical&no-frame=true&column=7&margin-w=15&margin-h=15" alt="Trophies" />
   </a>
-  
-  <a href="https://github.com/Itx-Psycho0">
-    <img src="https://streak-stats.demolab.com/?user=Itx-Psycho0&theme=radical&hide_border=true" height="180" alt="streak" />
-  </a>
-  
-  <br><br>
+</div>
 
-  <a href="https://github.com/Itx-Psycho0">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itx-Psycho0&layout=compact&theme=radical&hide_border=true" height="100" alt="languages" />
-  </a>
+<br>
+
+### 📊 Vital Statistics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Itx-Psycho0&show_icons=true&theme=radical&hide_border=true&count_private=true" height="160" alt="Stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itx-Psycho0&layout=compact&theme=radical&hide_border=true" height="160" alt="Langs" />
 </div>
 
 <br>
