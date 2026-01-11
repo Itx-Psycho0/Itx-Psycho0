@@ -34,41 +34,45 @@
 ---
 ---
 
+---
+
 <div align="center">
   <table width="100%" style="border: none;">
     <tr>
       <td width="33%" align="center" valign="top">
-        <h3>👤 Who Am I?</h3>
-        <p><b>Anurag Singh</b>.<br>A creator merging logic with chaos. I don't just write code; I build <b>worlds</b> in Game Dev and craft <b>immersive</b> 3D Web experiences.</p>
+        <h3>WHO AM I</h3>
+        <p>I am <b>Anurag Singh</b>.<br>A 1st-Year B.Tech CSE Student obsessed with bringing <b>imagination to life</b>.<br>I don't just write code; I build <b>new realities</b>.</p>
       </td>
       <td width="33%" align="center" valign="top">
-        <h3>🧠 Currently Hunting</h3>
-        <p>I am acquiring power in:</p>
+        <h3>LEARNINGS</h3>
+        <p>Acquiring power in:</p>
         <p>
           <code>C++ & Unreal Engine</code><br>
-          <code>Three.js (3D Web)</code><br>
-          <code>Python & AI</code>
+          <code>Game & Web Development</code><br>
+          <code>Blender 3D & AI</code>
         </p>
       </td>
       <td width="33%" align="center" valign="top">
-        <h3>🎁 The Loot (What You Get)</h3>
+        <h3>WHAT YOU GET</h3>
         <p>By following my path, you get:</p>
-        <ul>
-          <li>Dark, aesthetic UI/UX ideas</li>
-          <li>Game Dev logic breakdowns</li>
-          <li>Code that <i>bleeds</i> emotion</li>
+        <ul align="left">
+          <li>> Cool, Experimental Projects</li>
+          <li>> Clear Learning Roadmaps</li>
+          <li>> In-Depth Knowledge</li>
         </ul>
       </td>
     </tr>
   </table>
 </div>
 
-### Tech Stack
+---
+
+### ⚔️ The Arsenal
 
 <div align="center">
   <marquee direction="left" scrollamount="12" width="100%">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,threejs,python,cpp,unreal,blender,ps,git,github&theme=dark" height="60" alt="Tech Stack" />
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,threejs,python,cpp,unreal,blender,ps,git,github&theme=dark" height="60" alt="Tech Stack" style="margin-left: 50px;" />
+    <img src="https://skillicons.dev/icons?i=cpp,unreal,blender,python,html,css,js,react,git,github,vscode,linux&theme=dark" height="60" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=cpp,unreal,blender,python,html,css,js,react,git,github,vscode,linux&theme=dark" height="60" alt="Tech Stack" style="margin-left: 50px;" />
   </marquee>
 </div>
 
