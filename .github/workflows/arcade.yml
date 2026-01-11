@@ -1,4 +1,4 @@
-name: Generate Arcade Game
+name: Generate Pacman Snake
 
 on:
   # Run automatically every 12 hours
@@ -19,10 +19,12 @@ jobs:
           # github user name to read the contribution graph from (**required**)
           github_user_name: ${{ github.repository_owner }}
 
-          # Output: Pacman Yellow Body (#F7D51D) on Arcade Dark Blue/Black Dots
+          # Color Setup:
+          # Snake: #F7D51D (Pacman Yellow)
+          # Dots:  Standard GitHub Greens (Dark to Light)
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=#F7D51D&color_dots=#0d1117,#0e1525,#1c3052,#2b4a87,#3b65bf
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#F7D51D&color_dots=#0d1117,#0e1525,#1c3052,#2b4a87,#3b65bf
+            dist/github-contribution-grid-snake.svg?color_snake=#F7D51D&color_dots=#0d1117,#0e4429,#006d32,#26a641,#39d353
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#F7D51D&color_dots=#0d1117,#0e4429,#006d32,#26a641,#39d353
 
       - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
