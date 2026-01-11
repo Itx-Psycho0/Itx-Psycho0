@@ -66,29 +66,14 @@
 
 ---
 
+---
+
 ### > The Arsenal
 
 <div align="center">
-  <table style="border: none; border-collapse: collapse;">
-    <tr>
-      <td align="center" style="border: none; padding: 10px;">
-        <b> > Heavy Weapons (Core)</b><br><br>
-        <img src="https://skillicons.dev/icons?i=cpp,unreal,python,linux&theme=dark" height="50" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center" style="border: none; padding: 10px;">
-        <b> > Web & 3D Magic</b><br><br>
-        <img src="https://skillicons.dev/icons?i=js,react,threejs,html,css&theme=dark" height="50" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center" style="border: none; padding: 10px;">
-        <b> > The Forge (Creative)</b><br><br>
-        <img src="https://skillicons.dev/icons?i=blender,ps,git,github,vscode&theme=dark" height="50" />
-      </td>
-    </tr>
-  </table>
+  <kbd>
+    <img src="https://skillicons.dev/icons?i=cpp,unreal,blender,python,html,css,js,react,git,github,vscode,linux&theme=dark&perline=14" height="50" alt="Tech Stack" />
+  </kbd>
 </div>
 
 ---
