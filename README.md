@@ -74,12 +74,27 @@
 
 ### > Github Stats
 
-<div align="center">
-  <br>
-
+<p align="center">
   <a href="https://github.com/Itx-Psycho0">
-    <img src="https://nirzak-streak-stats.vercel.app/?user=Itx-Psycho0&theme=neon&hide_border=false" alt="Streak" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Itx-Psycho0&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true" alt="Stats" />
+    
+    <img height="180" src="https://streak-stats.demolab.com?user=Itx-Psycho0&theme=radical&hide_border=true" alt="Streak"/>
   </a>
+</p>
+
+<div align="center" style="width: 100%;">
+  <a href="https://github.com/Itx-Psycho0">
+    <img height="200" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itx-Psycho0&layout=compact&theme=radical&hide_border=true" alt="Languages" />
+  </a>
+</div>
+
+<br />
+
+<div align="center">
+  <a href="https://github.com/Itx-Psycho0">
+    <img src="https://github-contributor-stats.vercel.app/api?username=Itx-Psycho0&combine_all_yearly_contributions=true&theme=radical" width="100%" alt="Contributor Stats" />
+  </a>
+</div>
   
 <br><br>
 
@@ -107,7 +122,7 @@
 
 ---
 
-###  Achievements
+### > Achievements
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img src="https://github-profile-trophy.vercel.app/?username=Itx-Psycho0&theme=radical&no-frame=true&column=7&margin-w=15&margin-h=15" alt="Trophies" />
 </a>
