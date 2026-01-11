@@ -118,8 +118,7 @@
 ### > Connect with Me
 
 <div align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50" style="margin-bottom: -10px;" />
-  <img src="https://media.giphy.com/media/l41lFw057lAJQMxv2/giphy.gif" width="250" />
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="250" style="margin-bottom: -10px;" />
   
   <a href="https://www.linkedin.com/in/anurag-singh-769567369/">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
