@@ -32,9 +32,6 @@
 </table>
 
 ---
----
-
----
 
 <div align="center">
   <table width="100%" style="border: none;">
