@@ -75,27 +75,12 @@
 ### > Github Stats
 
 <div align="center">
-
-<br>
-
-<div align="center">
-  <a href="https://github.com/Itx-Psycho0">
-    <img src="https://github-readme-stats.vercel.app/api?username=Itx-Psycho0&theme=neon&hide_border=false&include_all_commits=true&count_private=true" alt="Stats" />
-  </a>
-  
   <br><br>
 
   <a href="https://github.com/Itx-Psycho0">
     <img src="https://nirzak-streak-stats.vercel.app/?user=Itx-Psycho0&theme=neon&hide_border=false" alt="Streak" />
   </a>
   
-  <br><br>
-
-  <a href="https://github.com/Itx-Psycho0">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itx-Psycho0&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Languages" />
-  </a>
-</div>
-
 <br>
 
   <kbd>
