@@ -3,6 +3,7 @@
     <img src="uchihai.gif" width="100%" alt="Psycho Obito Banner" />
   </kbd>
 </div>
+
 ---
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=900&size=36&duration=2500&pause=1000&color=8B5CF6&center=true&vCenter=true&width=760&lines=I+AM+ANURAG+SINGH;ITX-PSYCHO0" alt="typing" />
