@@ -14,7 +14,7 @@
 <table>
   <tr>
     <td width="60%" valign="top">
-      <h3>BRINGING IMAGINATION TO LIFE, ONE PIXEL AT A TIME</h3>
+      <h3> > BRINGING IMAGINATION TO LIFE, ONE PIXEL AT A TIME</h3>
       <blockquote>
         "Ever since that night, I learned something... people can stand beside you and still never see <b>what’s inside you.</b><br><br>
         They talk about pain like a story, like they can understand. But they weren’t there. They didn’t lose everything in one moment, so I stopped trying to make them know.<br><br>
