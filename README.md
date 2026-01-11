@@ -118,15 +118,17 @@
 ### > Connect with Me
 
 <div align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50" style="margin-bottom: -10px;" />
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="100" />
+  
+  <br>
   
   <a href="https://www.linkedin.com/in/anurag-singh-769567369/">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
+    <img src="https://img.shields.io/badge/Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
   </a>
   <a href="mailto:your_email@gmail.com">
-    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" />
   </a>
   <a href="https://instagram.com/your-handle">
-    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="30" />
+    <img src="https://img.shields.io/badge/Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="30" />
   </a>
 </div>
