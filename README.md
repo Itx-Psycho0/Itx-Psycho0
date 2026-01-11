@@ -118,17 +118,15 @@
 ### > Connect with Me
 
 <div align="center">
-  <img src="https://media.giphy.com/media/S8rI16Fq38wXlQupc7/giphy.gif" height="50" />
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50" style="margin-bottom: -10px;" />
   
-  <br>
-
   <a href="https://www.linkedin.com/in/anurag-singh-769567369/">
-    <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
   </a>
-  <a href="mailto:your_email@gmail.com">
-    <img src="https://img.shields.io/badge/GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white" height="35" />
+  <a href="mailto:anuragh3re@gmail.com">
+    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" />
   </a>
-  <a href="https://instagram.com/your-handle">
-    <img src="https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=white" height="35" />
+  <a href="https://instagram.com/snsi_psycho">
+    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="30" />
   </a>
 </div>
