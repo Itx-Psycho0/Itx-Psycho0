@@ -79,13 +79,15 @@
     <img src="https://github-profile-trophy.vercel.app/?username=Itx-Psycho0&theme=radical&no-frame=true&column=7&margin-w=15&margin-h=15" alt="Trophies" />
   </a>
 </div>
-
 <br>
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Itx-Psycho0&show_icons=true&theme=radical&hide_border=true&count_private=true" height="160" alt="Stats" />
+  <a href="https://github.com/Itx-Psycho0">
+    <img src="https://github-readme-stats.vercel.app/api?username=Itx-Psycho0&show_icons=true&theme=radical&hide_border=true&count_private=true&v=1" height="160" alt="Stats" />
+  </a>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itx-Psycho0&layout=compact&theme=radical&hide_border=true" height="160" alt="Langs" />
+  <a href="https://github.com/Itx-Psycho0">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itx-Psycho0&layout=compact&theme=radical&hide_border=true&v=1" height="160" alt="Langs" />
+  </a>
 </div>
 
 <br>
