@@ -94,14 +94,6 @@
 
 <div align="center">
   <kbd>
-    <img src="https://i.imgur.com/Tq5f8C6.gif" width="100%" alt="Pacman Chase" />
-  </kbd>
-</div>
-
-<br><br>
-
-<div align="center">
-  <kbd>
     <img src="https://media.giphy.com/media/d9QiBcfzg64Io/giphy.gif" width="100%" alt="Pacman Gameplay" />
   </kbd>
 </div>
