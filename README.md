@@ -33,11 +33,13 @@
 
 ---
 
-### Tech Stack & Tools
+### Tech Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,threejs,python,cpp,unreal,blender,ps,git,github&theme=dark" />
-
+  <marquee direction="left" scrollamount="12" width="100%">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,threejs,python,cpp,unreal,blender,ps,git,github&theme=dark" height="60" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,threejs,python,cpp,unreal,blender,ps,git,github&theme=dark" height="60" alt="Tech Stack" style="margin-left: 50px;" />
+  </marquee>
 </div>
 
 ---
