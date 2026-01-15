@@ -1,4 +1,4 @@
-<div align="center">
+<div align="">
   <kbd>
     <img src="uchihai.gif" width="100%" alt="Psycho Obito Banner" />
   </kbd>
