@@ -10,7 +10,7 @@
 
 <br>
 
-<table>
+<table>  
   <tr>
     <td width="60%" valign="top">
       <h3> > BRINGING IMAGINATION TO LIFE, ONE PIXEL AT A TIME</h3>
