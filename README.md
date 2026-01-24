@@ -32,10 +32,7 @@
 
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
-<div align="center">
-  <p align="center">
-  <img src="profile-3d-contrib/profile-night-green.svg" alt="3D Stats" />
-</p>
+
   <table width="100%" style="border: none;">
     <tr>
       <td width="33%" align="center" valign="top">
@@ -98,20 +95,23 @@
 ### > Github Stats     <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/fc444250-07b6-49d5-848a-8b2f8ce62b0a" width="75">&nbsp;
 
 <div align="center">
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/Itx-Psycho0">
-    <img src="https://nirzak-streak-stats.vercel.app/?user=Itx-Psycho0&theme=neon&hide_border=false" alt="Streak" />
-  </a>
+  <kbd>
+    <img src="profile-3d-contrib/profile-night-green.svg" alt="3D Stats" />
+  </kbd>
+  <br/><br/>
 
+  <table align="center">
+    <tr>
+      <td align="center" width="50%">
+        <a href="https://github.com/Itx-Psycho0">
+          <img src="https://nirzak-streak-stats.vercel.app/?user=Itx-Psycho0&theme=neon&hide_border=false" alt="Streak" />
+        </a>
+      </td>
+      
+  <td align="center" width="50%">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itx-Psycho0&layout=compact&theme=dracula" alt="Top Langs" />
   </td>
-</tr>
-<tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itx-Psycho0&layout=compact&theme=dracula" alt="Top Langs" />
-    </td>
-</tr>
+  </tr>
   
   <tr>
     <td align="center" colspan="2">
@@ -120,13 +120,12 @@
       </a>
     </td>
   </tr>
-</table>
-<br>
-<br>
+  </table>
 
-  <kbd>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Itx-Psycho0&bg_color=141321&color=ff0055&line=ff0055&point=ffffff&area=true&hide_border=true" width="100%" alt="3D Graph" />
-  </kbd>
+  <br/>
+<kbd>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Itx-Psycho0&bg_color=141321&color=ff0055&line=ff0055&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+</kbd>
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
