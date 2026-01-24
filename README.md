@@ -95,10 +95,29 @@
 ### > Github Stats     <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/fc444250-07b6-49d5-848a-8b2f8ce62b0a" width="75">&nbsp;
 
 <div align="center">
-<a href="https://github.com/Itx-Psycho0">
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/Itx-Psycho0">
     <img src="https://nirzak-streak-stats.vercel.app/?user=Itx-Psycho0&theme=neon&hide_border=false" alt="Streak" />
   </a>
+
+  </td>
+</tr>
+<tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itx-Psycho0&layout=compact&theme=dracula" alt="Top Langs" />
+    </td>
+</tr>
   
+  <tr>
+    <td align="center" colspan="2">
+      <a href="https://git.io/awesome-stats-card">
+        <img src="https://awesome-github-stats.azurewebsites.net/user-stats/Itx-Psycho0?cardType=level-alternate&theme=dracula&fontFamily=Autour%20One&preferLogin=true&borderRadius=4&Background=0B120F" alt="Level Card" />
+      </a>
+    </td>
+  </tr>
+</table>
 <br>
 <br>
 
