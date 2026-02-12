@@ -16,7 +16,7 @@
       <h3> > BRINGING IMAGINATION TO LIFE, ONE PIXEL AT A TIME</h3>
       <blockquote>
         "Ever since that night, I learned something... people can stand beside you and still never see <b>what’s inside you.</b><br><br>
-        They talk about pain like a story, like they can understand. But they weren’t there. They didn’t lose everything in one moment, so I stopped trying to make them know.<br><br>
+        They talk about pain like a story, as they can understand. But they weren’t there. They didn’t lose everything in one moment, so I stopped trying to make them know.<br><br>
         <b>My path. My choices. My hatred.</b><br>
         They were never meant for anyone else to carry. I realized the world only listens when you become strong enough to <i>force</i> it to.<br><br>
         I don’t need them to understand me. I just need to reach the end of the path I decided—<b>no matter what it takes.</b>"
@@ -30,7 +30,7 @@
   </tr>
 </table>
 
-![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+
 
 
   <table width="100%" style="border: none;">
@@ -61,6 +61,8 @@
   </table>
 </div>
 
+![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+
 ### > The Arsenal   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/406eb3e6-caba-401d-93c8-e0a7941c84b9" width="75">&nbsp;
 
 <div align="center">
@@ -90,7 +92,7 @@
   </kbd>
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 ### > Github Stats     <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/fc444250-07b6-49d5-848a-8b2f8ce62b0a" width="75">&nbsp;
 
@@ -108,18 +110,13 @@
         </a>
       </td>
       
-  <td align="center" width="50%">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itx-Psycho0&layout=compact&theme=dracula" alt="Top Langs" />
-  </td>
-  </tr>
-  
-  <tr>
-    <td align="center" colspan="2">
+   <td align="center" colspan="2">
       <a href="https://git.io/awesome-stats-card">
         <img src="https://awesome-github-stats.azurewebsites.net/user-stats/Itx-Psycho0?cardType=level-alternate&theme=dracula&fontFamily=Autour%20One&preferLogin=true&borderRadius=4&Background=0B120F" alt="Level Card" />
       </a>
     </td>
   </tr>
+  
   </table>
 
   <br/>
@@ -128,16 +125,17 @@
 </kbd>
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+<!-- <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000"> -->
+![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 ### > The Cool Animations <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="400">
 
-<div align="center">
+<!-- <div align="center">
   <kbd>
     <img src="https://media.giphy.com/media/d9QiBcfzg64Io/giphy.gif" width="100%" alt="Pacman Gameplay" />
   </kbd>
 </div>
-<br><br>
+<br><br> -->
 
 <div align="center">
   <kbd>
@@ -145,7 +143,7 @@
   </kbd>
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 ### > Achievements  
 <img src="https://user-images.githubusercontent.com/74038190/226127927-3feb953e-cc01-482e-b732-311b2907991f.gif" width="100">
@@ -241,7 +239,7 @@
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 ### > Random Dev Quote   <img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" width="100"> 
 
@@ -251,7 +249,7 @@
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 <table style="width: 100%; border: none; border-collapse: collapse;">
   <tr>
