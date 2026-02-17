@@ -19,7 +19,7 @@
         They talk about pain like a story, as they can understand. But they weren’t there. They didn’t lose everything in one moment, so I stopped trying to make them know.<br><br>
         <b>My path. My choices. My hatred.</b><br>
         They were never meant for anyone else to carry. I realized the world only listens when you become strong enough to <i>force</i> it to.<br><br>
-        I don’t need them to understand me. I just need to reach the end of the path I decided—<b>no matter what it takes.</b>"
+        I don’t need them to understand me. I just need to reach the end of the path I decided <b>no matter what it takes.</b>"
       </blockquote>
     </td>
     <td width="40%" valign="center">
