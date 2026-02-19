@@ -67,7 +67,7 @@
 
 <div align="center">
   <kbd>
-    <img src="https://skillicons.dev/icons?i=cpp,unreal,blender,linux&theme=dark&perline=14" height="50" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=cpp,unreal,blender,linux,golang,vite&theme=dark&perline=14" height="50" alt="Tech Stack" />
   </kbd>
 </div>
 <br>
