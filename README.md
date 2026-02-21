@@ -5,12 +5,21 @@
 </div>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=900&size=36&duration=2500&pause=1000&color=FFFFFF;FF0000&center=true&vCenter=true&width=760&lines=I+AM+ANURAG+SINGH;Full+Stack+Web+Developer;Game+Developer;Ai/Ml+Enthusiast;3d+and+2d+Designer;" alt="typing" />
-  <img src="https://user-images.githubusercontent.com/74038190/227779362-cacda485-cab4-4e28-8a27-a4d2a918a7ac.gif" width="100">
+<table style="border:none; border-collapse:collapse;">
+<tr>
+<td style="border:none;">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=900&size=36&duration=2500&pause=1000&color=random&center=true&vCenter=true&width=680&lines=I+AM+ANURAG+SINGH;Full+Stack+Web+Developer;Game+Developer;AI+%2F+ML+Enthusiast;3D+%26+2D+Designer" alt="typing"/>
+</td>
+<td style="border:none;">
+<img src="https://user-images.githubusercontent.com/74038190/227779362-cacda485-cab4-4e28-8a27-a4d2a918a7ac.gif" width="80"/>
+</td>
+</tr>
+</table>
 </div>
 <br>
-<br>
+
 <div align="center">
+<Kbd>
 
 <a href="mailto:anuragh3re@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -24,7 +33,7 @@
 <a href="https://github.com/Itx-Psycho0">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
+</Kbd>
 </div>
 
 <table>
@@ -228,7 +237,6 @@
     <img src="https://github-trophies.vercel.app/?username=Itx-Psycho0&theme=juicyfresh&no-frame=true&column=7&margin-w=15&margin-h=15" alt="Trophies" />
   </a>
 </div>
-<br><br>
 
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
@@ -237,35 +245,68 @@
 
 <div align="center">
 
+<table>
+<tr>
+<td align="center" width="50%">
 <kbd>
-<a href="https://github.com/Itx-Psycho0/ci-cd-healing-agent">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Itx-Psycho0&repo=autonomous-ci-cd-healing-agent&theme=radical&hide_border=true&show_icons=true"/>
+<a href="https://github.com/Itx-Psycho0/autonomous-ci-cd-healing-agent">
+<img src="https://img.shields.io/badge/_CI--CD_Healing_Agent-View_Repo-FF0055?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-</kbd>
-<kbd>
-<a href="https://github.com/Itx-Psycho0/50-Days-50-Experiments">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Itx-Psycho0&repo=50-Project-in-50-Days-by-HTML-CSS-JS&theme=radical&hide_border=true&show_icons=true"/>
-</a>
-</kbd>
-
 <br/><br/>
+<br/><br/>
+<img src="https://img.shields.io/badge/LangGraph-FF4B4B?style=flat-square&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<h4>Multi-agent AI system that auto detects & fixes bugs across multiple languages</h4>
+</kbd>
+</td>
+<td align="center" width="50%">
+<kbd>
+<a href="https://github.com/Itx-Psycho0/OJT_PROJECT">
+<img src="https://img.shields.io/badge/_OJT_Project-View_Repo-FF0055?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<br/><br/>
+<br/><br/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+<h4>On Job Training project — full stack web application</h4>
+</kbd>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+<kbd>
+<a href="https://github.com/Itx-Psycho0/3d-Explorer-Game">
+<img src="https://img.shields.io/badge/_3D_Explorer_Game-View_Repo-FF0055?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<br/><br/>
+<br/><br/>
+<img src="https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white"/>
+<img src="https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white"/>
+<img src="https://img.shields.io/badge/GDScript-478CBF?style=flat-square&logo=godotengine&logoColor=white"/>
 
-<kbd>
-<a href="https://github.com/Itx-Psycho0/Crystal-Cavern-Explorer">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Itx-Psycho0&repo=3d-Explorer-Game&theme=radical&hide_border=true&show_icons=true"/>
-</a>
+<h4>3D first person explorer game built in Godot Engine</h4>
 </kbd>
+</td>
+<td align="center" width="50%">
 <kbd>
-<a href="https://github.com/Itx-Psycho0/EndpointX">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Itx-Psycho0&repo=MY-Skills&theme=radical&hide_border=true&show_icons=true"/>
+<a href="https://github.com/Itx-Psycho0/50-Project-in-50-Days-by-HTML-CSS-JS">
+<img src="https://img.shields.io/badge/_50_Projects_in_50_Days-View_Repo-FF0055?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+<br/><br/>
+<br/><br/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<br/><br/>
+<h4>50 unique web experiments built in 50 days</h4>
 </kbd>
+</td>
+</tr>
+</table>
 
 </div>
-
-<br/>
-
-
 
 <!-- <div align="center">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="250" style="margin-bottom: -10px;" />
