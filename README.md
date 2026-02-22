@@ -45,7 +45,7 @@
 ┌──(ITX-PSYCHO0㉿github)-[~]
 │
 ├──  role
-│    BTech CSE & AI Student
+│    BTech CSE & AI/ML Student
 │
 ├──  skills
 │    Languages  → C++, C#, Python, Go, TypeScript
@@ -373,9 +373,7 @@
   </tr>
 </table>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Itx-Psycho0&style=plastic&color=blueviolet&label=VISITORS" alt="Profile Views" />
-</div>
+
 <div align="center">
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/flags/hd/iranparrot.gif" width="25" height="25"/>
@@ -402,4 +400,7 @@
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="25" height="25"/>
 </div>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Itx-Psycho0&style=plastic&color=blueviolet&label=VISITORS" alt="Profile Views" />
+</div>
 
