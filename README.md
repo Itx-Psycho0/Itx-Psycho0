@@ -50,7 +50,7 @@
 │    Backend    → Node.js, FastAPI, REST API, MongoDB
 │    Game Dev   → Godot Engine, Unreal Engine, Blender
 │    Security   → Cybersecurity, Kali Linux
-│    Creative   → DaVinci Resolve, Photoshop
+│    Creative   → DaVinci Resolve, Photoshop, After Effects
 │
 ├──  building
 │    → Game Dev (Godot / Unreal Engine)
