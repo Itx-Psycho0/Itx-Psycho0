@@ -47,7 +47,7 @@
 ├──  skills
 │    Languages  → C++, C#, Python, Go, TypeScript
 │    Frontend   → HTML, CSS, JS, React, React Native
-│    Backend    → Node.js, FastAPI, REST API, MongoDB
+│    Backend    → Node.js, FastAPI, REST API, MongoDB, MySQL
 │    Game Dev   → Godot Engine, Unreal Engine, Blender
 │    Security   → Cybersecurity, Kali Linux
 │    Creative   → DaVinci Resolve, Photoshop, After Effects
