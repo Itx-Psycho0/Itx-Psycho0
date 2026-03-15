@@ -184,6 +184,44 @@
 
 ### > Github Stats     <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/fc444250-07b6-49d5-848a-8b2f8ce62b0a" width="75">&nbsp;
 
+<div align="center">
+  <table align="center">
+    <tr>
+      <td align="center" width="50%">
+        <a href="https://github.com/Itx-Psycho0">
+          <img src="https://nirzak-streak-stats.vercel.app/?user=Itx-Psycho0&theme=neon&hide_border=false" alt="Streak" />
+        </a>
+      </td>
+      
+   <td align="center" colspan="2">
+      <a href="https://git.io/awesome-stats-card">
+        <img src="https://awesome-github-stats.azurewebsites.net/user-stats/Itx-Psycho0?cardType=level-alternate&theme=dracula&fontFamily=Autour%20One&preferLogin=true&borderRadius=4&Background=0B120F" alt="Level Card" />
+      </a>
+    </td>
+  </tr>
+ </table>
+ <table>
+  <tr>
+  <td align="center" width="32%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Itx-Psycho0&theme=radical"/>
+  </td>
+  <td align="center" colspan="2">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Itx-Psycho0&theme=radical"/>
+  </td>
+  <td align="center" colspan="3">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Itx-Psycho0&theme=radical&utcOffset=5.5"/>
+  </td>
+
+</tr>
+ </table>
+
+  <br/>
+<kbd>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Itx-Psycho0&bg_color=141321&color=ff0055&line=ff0055&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+</kbd>
+</div>
+<br>
+
 
 <!-- <div align="center">
   <kbd>
