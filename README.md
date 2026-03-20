@@ -68,6 +68,7 @@
 ├──  outside
 │    → Drawing & Animation
 │    → Video Editing (DaVinci Resolve)
+│    → Motion Graphic
 |    → Drawing
 │    → Watching Anime
 │
