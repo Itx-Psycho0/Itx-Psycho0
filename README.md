@@ -60,6 +60,7 @@
 │    → Backend (Node.js + TypeScript)
 │    → Cybersecurity & Ethical Hacking
 │    → Advanced Godot Engine
+│    → Advance Drawing technque
 │
 ├──  open_source
 │    → LFX Mentorship — CNCF (Active)
