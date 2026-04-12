@@ -88,11 +88,11 @@
 <div align="center">
   <table align="center">
     <tr>
-      <td align="center" width="50%">
+      <!-- <td align="center" width="50%">
         <a href="https://github.com/Itx-Psycho0">
           <img src="https://nirzak-streak-stats.vercel.app/?user=Itx-Psycho0&theme=neon&hide_border=false" alt="Streak" />
         </a>
-      </td>
+      </td> -->
       
    <td align="center" colspan="2">
       <a href="https://git.io/awesome-stats-card">
