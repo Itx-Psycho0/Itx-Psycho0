@@ -4,6 +4,9 @@
   </kbd>
 </div>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+
+### > ABOUT ME
+
 <div align="center">
 <table style="border:none; border-collapse:collapse;">
 <tr>
@@ -11,32 +14,12 @@
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=900&size=36&duration=2500&pause=1000&color=random&center=true&vCenter=true&width=680&lines=I+AM+ANURAG+SINGH;Full+Stack+Web+Developer;Game+Developer;AI+%2F+ML+Enthusiast;3D+%26+2D+Designer" alt="typing"/>
 </td>
 <td style="border:none;">
-<img src="https://user-images.githubusercontent.com/74038190/227779362-cacda485-cab4-4e28-8a27-a4d2a918a7ac.gif" width="80"/>
+<img src="https://user-images.githubusercontent.com/74038190/227779362-cacda485-cab4-4e28-8a27-a4d2a918a7ac.gif" width="100"/>
 </td>
 </tr>
 </table>
 </div>
-<div align="center">
-<Kbd>
-
-<a href="mailto:anuragh3re@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/anurag-singh-769567369/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://instagram.com/snsi_psycho">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-</Kbd>
-</div>
 <table>
-<br>
-  
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-### > About Me
-
 <pre>
 ┌──(ITX-PSYCHO0㉿github)-[~]
 │
@@ -74,14 +57,28 @@
 │
 └── 
 </pre>
+<div align="center">
+<Kbd>
+
+<a href="mailto:anuragh3re@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/anurag-singh-769567369/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://instagram.com/snsi_psycho">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+</Kbd>
+</div>
+<br>
 
 <div align="center">
 <i>"The only thing we're allowed to do is believe that we won't regret the choice we made."</i>
 </div>
 
-</table>
-
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+</table>
 
   
 <!-- <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/fc444250-07b6-49d5-848a-8b2f8ce62b0a" width="75">&nbsp; -->
