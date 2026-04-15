@@ -83,7 +83,8 @@
 
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
-### > Github Stats     <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/fc444250-07b6-49d5-848a-8b2f8ce62b0a" width="75">&nbsp;
+  
+<!-- <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/fc444250-07b6-49d5-848a-8b2f8ce62b0a" width="75">&nbsp; -->
 
 <!-- <div align="center">
   <table align="center">
