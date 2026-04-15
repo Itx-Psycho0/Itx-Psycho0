@@ -90,7 +90,7 @@
     <tr>
       <!-- <td align="center" width="50%">
         <a href="https://github.com/Itx-Psycho0">
-          <img src="https://nirzak-streak-stats.vercel.app/?user=Itx-Psycho0&theme=neon&hide_border=false" alt="Streak" />
+
         </a>
       </td> -->
       
