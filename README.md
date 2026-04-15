@@ -126,8 +126,8 @@
 </div> -->
 
 
-### > Achievements  
-<div align="center">
+ 
+<!-- <div align="center">
   <a href="https://github.com/Itx-Psycho0">
     <img src="https://github-trophies.vercel.app/?username=Itx-Psycho0&theme=juicyfresh&no-frame=true&column=7&margin-w=15&margin-h=15" alt="Trophies" />
   </a>
@@ -165,7 +165,7 @@
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/three.js-000000?style=flat-square&logo=three.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<h4>On Job Training project — full stack web application</h4>
+<h4>On Job Training project — full-stack web application</h4>
 </kbd>
 </td>
 </tr>
@@ -181,7 +181,7 @@
 <img src="https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white"/>
 <img src="https://img.shields.io/badge/GDScript-478CBF?style=flat-square&logo=godotengine&logoColor=white"/>
 
-<h4>3D first person explorer game built in Godot Engine</h4>
+<h4>3D first-person explorer game built in Godot Engine</h4>
 </kbd>
 </td>
 <td align="center" width="50%">
@@ -201,7 +201,7 @@
 </tr>
 </table>
 
-</div>
+</div> -->
 
 <!-- <div align="center">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="250" style="margin-bottom: -10px;" />
@@ -227,9 +227,9 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
 </div> -->
 
-<br>
+<!-- <br>
 
-![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif) -->
 
 <!-- <table style="width: 100%; border: none; border-collapse: collapse;">
   <tr>
