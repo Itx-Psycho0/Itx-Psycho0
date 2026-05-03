@@ -46,7 +46,7 @@
 │
 ├──  open_source
 │    → LFX Mentorship — CNCF (Active)
-│    → Always looking for more programs...
+│    → Always looking for more programs....
 │
 ├──  outside
 │    → Drawing & Animation
