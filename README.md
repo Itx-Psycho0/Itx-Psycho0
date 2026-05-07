@@ -45,7 +45,6 @@
 │    → Advanced Drawing technique
 │
 ├──  open_source
-│    → LFX Mentorship — CNCF (Active)
 │    → Always looking for more programs...
 │
 ├──  outside
