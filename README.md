@@ -49,7 +49,7 @@
 │    → Always looking for more programs...
 │
 ├──  outside
-│    → Drawing & Animation
+│    → 3D Designing & Animation
 │    → Video Editing (DaVinci Resolve)
 |    → Drawing
 │    → Watching Anime
