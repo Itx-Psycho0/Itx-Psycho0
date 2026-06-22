@@ -59,7 +59,9 @@
 <div align="center">
 <i>"The only thing we're allowed to do is believe that we won't regret the choice we made."</i>
 </div>
+<br>
 <div align="center">
+
 <Kbd>
 
 <a href="mailto:anuragh3re@gmail.com">
