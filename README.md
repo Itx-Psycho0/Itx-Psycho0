@@ -1,23 +1,4 @@
 
-  <kbd>
-    <img src="uchihai.gif" width="100%" alt="Psycho Obito Banner" />
-  </kbd>
-</div>
-<br> -->
-<!-- <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000"> -->
-<div align="center">
-<table style="border:none; border-collapse:collapse;">
-<tr>
-<td style="border:none;">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=900&size=34&duration=2500&pause=1000&color=DF1F2D&center=true&vCenter=true&width=700&lines=WHO+AM+I;I+AM+ANURAG+SINGH;I+WILL+SURPASS+EVERYONE" alt="typing"/>
-</td>
-<td style="border:none;">
-<img src="https://user-images.githubusercontent.com/74038190/227779362-cacda485-cab4-4e28-8a27-a4d2a918a7ac.gif" width="100"/>
-</td>
-</tr>
-</table>
-</div>
-<table>
 <!-- <pre>
 ┌──(ITX-PSYCHO0㉿github)-[~]
 │
