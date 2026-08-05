@@ -51,7 +51,6 @@
 │    → Video Editing (DaVinci Resolve)
 |    → Drawing
 │    → Watching Anime
-│
 └── 
 </pre> -->
 <!-- <br> -->
